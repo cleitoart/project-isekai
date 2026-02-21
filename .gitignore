@@ -6,3 +6,6 @@
 .agents/
 .venv/
 addons/gdai-mcp-plugin-godot/
+
+# Document ignores
+docs/
